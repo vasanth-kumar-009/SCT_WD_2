@@ -25,7 +25,7 @@ This project is a simple, interactive, and user-friendly stopwatch web applicati
 
 ## 🔗 Live Demo
 
-👉 [Try the Stopwatch Web App](https://giridhar-gedela.github.io/SCT_WD_2/)
+👉 [Try the Stopwatch Web App](https://vasanth-kumar-009.github.io/SCT_WD_2/)
 
 ---
 
